@@ -10,7 +10,7 @@ A client using the Postcode.nl REST API for Dutch address verification.
 Pull the package in through Composer:
 
 ```bash
-composer require speelpenning/laravel-postcode-nl
+composer require raydotnl/laravel-postcode-nl
 ```
 
 Next, register an account with Postcode.nl to obtain a key and secret. See https://api.postcode.nl/#register for 
